@@ -104,7 +104,7 @@ hr {
 }
 
 
-@media (min-width: 344px) and (max-width: 430px) {
+@media (min-width: 300px) and (max-width: 500px) {
     .emotion {
         flex-direction: column-reverse;
         gap: 20px;
